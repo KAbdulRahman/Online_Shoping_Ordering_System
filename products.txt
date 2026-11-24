@@ -1,0 +1,4 @@
+3|keyboard|Accessories|10000|9
+1|Laptop|Electronics|70000|4
+2|AC Refrigerator|Electronics|90000|10
+4|face wash|beauty|600|21
